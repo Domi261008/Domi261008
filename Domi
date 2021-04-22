@@ -1,0 +1,7 @@
+echo "# Domi261008" >> README.md
+git init
+git add README.md
+git commit -m "readhere"
+git branch -M main
+git remote add origin https://github.com/Domi261008/Domi261008.git
+git push -u origin main
